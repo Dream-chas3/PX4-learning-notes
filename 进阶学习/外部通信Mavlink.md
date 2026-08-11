@@ -291,6 +291,6 @@ mavlink status streams
 ## 相关笔记
 
 - [[../飞行日志学习/飞行日志]] — uORB 发布订阅 + pthread 双线程
-- [[../uORB学习/1-uORB消息发布与订阅基础]] — uORB C API 详解
-- [[../uORB学习/2-uORB-C++封装API]] — uORB C++ 封装
+- [[../uORB学习/1-uORB-C-API-基本接口与自定义主题]] — uORB C API 详解
+- [[../uORB学习/2-uORB-C++封装与工作队列同步]] — uORB C++ 封装
 - [[../飞行日志学习/配置参数存取]] — param 系统
