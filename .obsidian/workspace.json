@@ -190,6 +190,8 @@
   },
   "active": "fa39a04824d61f44",
   "lastOpenFiles": [
+    "FanciSwarm 树莓派无人机/快速开发指南.md",
+    "FanciSwarm 树莓派无人机/快速开发指南.md.tmp.8382.f992dda735e9",
     "开发总结/ROS与PX4通信及FanciSwarm系统架构.md",
     "开发总结/Mcontroller-v7固件架构详解.md",
     "开发总结/Mcontroller-v7固件架构详解.md.tmp.8382.ee7f78c02cb1",
@@ -207,7 +209,6 @@
     "开发总结/PX4多版本管理与Nxt-FC硬件移植.md.tmp.8382.58e905ce7347",
     "开发总结",
     "FanciSwarm 树莓派无人机/FanciSwarm 树莓派无人机产品.md.tmp.8382.07afe0b23536",
-    "FanciSwarm 树莓派无人机/FanciSwarm 树莓派无人机产品.md.tmp.8382.b816827fb9ba",
     "飞行日志学习/飞行日志.md",
     "进阶学习/ROS与PX4通信实现定点飞行.md",
     "进阶学习/commander模块.md",
@@ -224,7 +225,6 @@
     "前期学习/px4入门学习.md",
     "Nuttx知识/任务的同步和互斥.md",
     "Nuttx知识/任务.md",
-    "Nuttx知识/线程.md",
-    "Nuttx知识/Nuttx驱动入门.md"
+    "Nuttx知识/线程.md"
   ]
 }
