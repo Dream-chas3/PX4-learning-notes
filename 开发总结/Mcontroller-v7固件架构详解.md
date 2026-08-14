@@ -19,17 +19,17 @@ date: 2026-08-12
 
 ## 一、固件概览
 
-| 项目 | 值 |
-|------|-----|
-| 固件名 | Mcontroller-v7-FanciSwarm |
-| 开发者 | 幻思创新 Fancinnov（作者：JackyPan） |
-| MCU | STM32H743 |
-| RTOS | FreeRTOS |
-| 构建工具 | STM32CubeIDE |
-| 核心库 | `libMcontroller-v7-FanciSwarm.a`（闭源） |
-| 烧录工具 | STM32CubeProgrammer V2.15 |
-| 通信协议 | MAVLink（原生支持） |
-| 源码托管 | GitHub（持续更新） |
+| 项目   | 值                                    |
+| ---- | ------------------------------------ |
+| 固件名  | Mcontroller-v7-FanciSwarm            |
+| 开发者  | 幻思创新 Fancinnov（作者：JackyPan）          |
+| MCU  | STM32H743                            |
+| RTOS | FreeRTOS                             |
+| 构建工具 | STM32CubeIDE                         |
+| 核心库  | `libMcontroller-v7-FanciSwarm.a`（闭源） |
+| 烧录工具 | STM32CubeProgrammer V2.15            |
+| 通信协议 | MAVLink（原生支持）                        |
+| 源码托管 | GitHub（持续更新）                         |
 
 ---
 
@@ -192,15 +192,15 @@ Mcontroller-v7-FanciSwarm-main/
 
 ### 传感器
 
-| 传感器 | 数据接口 | 状态 |
-|--------|----------|------|
-| IMU（加速度计 + 陀螺仪） | SPI | ✅ 内置 |
-| 磁力计 | I2C/SPI | ✅ 内置 |
-| 气压计 | I2C | ✅ 内置 |
-| 激光测距（ToF） | I2C | ✅ 可选 |
-| 光流模块 | 串口 | ✅ 可选 |
-| UWB（DWM1000） | SPI | ✅ 可选 |
-| GNSS/GPS | 串口 | ⬜ 可选 |
+| 传感器             | 数据接口    | 状态   |
+| --------------- | ------- | ---- |
+| IMU（加速度计 + 陀螺仪） | SPI     | ✅ 内置 |
+| 磁力计             | I2C/SPI | ✅ 内置 |
+| 气压计             | I2C     | ✅ 内置 |
+| 激光测距（ToF）       | I2C     | ✅ 可选 |
+| 光流模块            | 串口      | ✅ 可选 |
+| UWB（DWM1000）    | SPI     | ✅ 可选 |
+| GNSS/GPS        | 串口      | ⬜ 可选 |
 
 ---
 
