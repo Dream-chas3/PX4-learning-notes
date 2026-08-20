@@ -292,24 +292,24 @@
 
 ### 基本工作流
 
-| 命令 | 说明 |
-|:-----|:-----|
-| `git status` | 查看工作区、暂存区状态 |
-| `git add <file>` | 将文件添加到暂存区 |
-| `git add .` | 添加当前目录所有变更到暂存区 |
-| `git add -A` | 添加所有变更（含删除） |
-| `git add -p` | 交互式选择要暂存的代码块 |
-| `git commit -m "msg"` | 提交并附上说明 |
-| `git commit --amend` | 修改上一次提交 |
-| `git push` | 推送本地提交到远程 |
-| `git push -u origin <branch>` | 推送并建立分支追踪 |
-| `git push --force-with-lease` | 安全强制推送 |
-| `git pull` | 拉取远程更新并自动合并 |
-| `git pull --rebase` | 拉取并以 rebase 方式合并 |
-| `git fetch` | 拉取远程更新但**不合并** |
-| `git log --oneline --graph --all` | 图形化展示分支历史 |
-| `git log -p` | 查看提交详细 diff |
-| `git blame <file>` | 查看文件每行的最后修改者 |
+| 命令                                | 说明               |
+| :-------------------------------- | :--------------- |
+| `git status`                      | 查看工作区、暂存区状态      |
+| `git add <file>`                  | 将文件添加到暂存区        |
+| `git add .`                       | 添加当前目录所有变更到暂存区   |
+| `git add -A`                      | 添加所有变更（含删除）      |
+| `git add -p`                      | 交互式选择要暂存的代码块     |
+| `git commit -m "msg"`             | 提交并附上说明          |
+| `git commit --amend`              | 修改上一次提交          |
+| `git push`                        | 推送本地提交到远程        |
+| `git push -u origin <branch>`     | 推送并建立分支追踪        |
+| `git push --force-with-lease`     | 安全强制推送           |
+| `git pull`                        | 拉取远程更新并自动合并      |
+| `git pull --rebase`               | 拉取并以 rebase 方式合并 |
+| `git fetch`                       | 拉取远程更新但**不合并**   |
+| `git log --oneline --graph --all` | 图形化展示分支历史        |
+| `git log -p`                      | 查看提交详细 diff      |
+| `git blame <file>`                | 查看文件每行的最后修改者     |
 
 ### 分支操作
 
