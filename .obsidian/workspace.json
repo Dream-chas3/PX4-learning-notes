@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-README.md",
-                "mode": "preview",
+                "file": "PX4学习/1-前期学习/1-C++学习.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-README"
+              "title": "1-C++学习"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,13 +188,27 @@
       "bases:新建数据库": false
     }
   },
-  "active": "fa39a04824d61f44",
+  "active": "35704ffbc8f87190",
   "lastOpenFiles": [
+    "PX4学习/1-前期学习/4-飞行控制基础.md",
+    "PX4学习/1-前期学习/3-px4入门学习.md",
+    "PX4学习/1-前期学习/2-无人机基本概念和动力选型分析.md",
+    "PX4学习/4-飞行控制基础.md",
+    "PX4学习/3-px4入门学习.md",
+    "PX4学习/2-无人机基本概念和动力选型分析.md",
+    "LVGL/LVGL.md",
+    "Pasted image 20260817150515.png",
+    "README.md",
+    "Linux终端操作/个人常用.md",
+    "PX4学习/2-Nuttx知识/1-任务.md",
+    "PX4学习/9-example/hello.md",
+    "PX4学习/9-example/hello.md.tmp.21836.a0ce0ac3334f",
+    "PX4学习/9-example",
+    "未命名",
     "Google代码规范/嵌入式的谷歌代码格式规范.md",
     "PX4学习/1-前期学习/0-Linux终端操作/个人常用.md",
-    "0-Linux终端操作/个人常用.md",
-    "0-Linux终端操作/Linux常用终端操作指令.md",
-    "0-Linux终端操作",
+    "Linux终端操作/Linux常用终端操作指令.md",
+    "Linux终端操作",
     "boards/hkust/nxt-dual/src/init.c.md",
     "PX4学习/8-开发总结/源码学习与进阶开发/2-ROS节点开发实战-MAVROS控制PX4无人机.md",
     "PX4学习/8-开发总结/源码学习与进阶开发/1-PX4源码导读与学习路线图.md",
@@ -212,22 +226,8 @@
     "PX4学习/7-hkust_px4/代码解读.md",
     "PX4学习/7-hkust_px4/Hardware.md",
     "PX4学习/7-hkust_px4",
-    "8-开发总结/开发流程图/开发流程.md",
-    "8-开发总结/5-源码学习与进阶开发/2-ROS节点开发实战-MAVROS控制PX4无人机.md",
-    "8-开发总结/5-源码学习与进阶开发/1-PX4源码导读与学习路线图.md",
-    "8-开发总结/4-SLAM入门与无人机定位.md",
     "8-开发总结/开发流程图",
-    "8-开发总结/5-源码学习与进阶开发",
-    "8-开发总结/3-ROS与MAVLink通信及FanciSwarm系统架构.md",
-    "8-开发总结/2-ROS功能包与多节点开发.md",
-    "8-开发总结/1-Mcontroller-v7固件架构详解.md",
-    "8-开发总结",
-    "7-hkust_px4/代码解读.md",
-    "7-hkust_px4/Hardware.md",
-    "7-hkust_px4",
-    "PX4学习/6-FanciSwarm 树莓派无人机/4-传感器原理及其代码/09-编码器轮式里程计.md",
     "Pasted image 20260820103637.png",
-    "Pasted image 20260820103619.png",
-    "Pasted image 20260817150515.png"
+    "Pasted image 20260820103619.png"
   ]
 }
